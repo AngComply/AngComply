@@ -3,7 +3,7 @@
 ### Section 508 Subject Matter Expert & Compliance Analyst
 
 I help federal, higher-education, and commercial teams make digital products
-accessible and **Section 508 compliant** — through hands-on testing,
+accessible and **Section 508 compliant** through hands-on testing,
 remediation, and clear compliance documentation. 10+ years supporting federal
 public-health agencies with accessibility assessment, VPAT/ACR preparation, and
 508 program guidance.
@@ -44,7 +44,7 @@ automation capability. Each project has a dedicated repository.
 
 ---
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 **Standards** · Section 508 (Rehabilitation Act) · WCAG 2.1 AA · PDF/UA · WAI-ARIA
 
@@ -62,7 +62,7 @@ ATO lifecycle
 
 ---
 
-## 🎓 Certifications & Education
+## Certifications & Education
 
 - **DHS Section 508 Trusted Tester (TTv5)** — Web *(in progress, expected Aug 2026)*
 - **M.S., Information Technology** — Software Engineering
@@ -70,7 +70,7 @@ ATO lifecycle
 
 ---
 
-## 📫 Availability & Contact
+## Availability & Contact
 
 Open to remote **contract, consulting, project-based, and fractional** Section
 508 engagements.
