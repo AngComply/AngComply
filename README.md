@@ -33,7 +33,7 @@ automation capability. Each project has a dedicated repository.
 
 | # | Project | Focus | Stack | Status |
 |---|---------|-------|-------|--------|
-| 1 | [Section 508 Compliance Checker CLI](https://github.com/AngComply/section-508-compliance-checker-cli) | Automated detection of common 508/WCAG barriers in web content | Python · Selenium · BeautifulSoup | ✅ Active — 14 checks, CI, tests |
+| 1 | [Section 508 Compliance Checker CLI](https://github.com/AngComply/section-508-compliance-checker-cli) | Automated detection of common 508/WCAG barriers in web content | Python · Selenium · BeautifulSoup | ✅ Active — 16 checks, CI, tests |
 | 2 | [AWS Section 508 Compliance Template](https://github.com/AngComply/aws-section-508-compliance-template) | Serverless pipeline for continuous 508/WCAG monitoring, as Infrastructure as Code | Terraform · AWS Lambda · S3 · SNS | ✅ Active |
 | 3 | [PDF Accessibility Remediation Toolkit](https://github.com/AngComply/pdf-accessibility-remediation-toolkit) | Check and auto-remediate PDFs against PDF/UA and Section 508 | Python · pikepdf | ✅ Active |
 | 4 | [Section 508 Documentation Templates](https://github.com/AngComply/section-508-documentation-templates) | Reusable VPAT/ACR, audit, remediation, and test-plan templates | Markdown | ✅ Active |
