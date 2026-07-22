@@ -15,13 +15,13 @@ project-based, and fractional engagements.**
 
 ## What I Do
 
-- **Accessibility testing & remediation** — web, PDF/UA, Office documents,
+- **Accessibility testing & remediation**: web, PDF/UA, Office documents,
   forms, e-learning, dashboards, and mobile, using both automated tooling and
   manual evaluation with assistive technology.
-- **Compliance documentation** — Voluntary Product Accessibility Templates
+- **Compliance documentation**: Voluntary Product Accessibility Templates
   (VPATs) and Accessibility Conformance Reports (ACRs) mapped to WCAG success
   criteria and the Revised Section 508 Standards.
-- **Training & program support** — enabling content authors, designers, and
+- **Training & program support**: enabling content authors, designers, and
   engineers to build accessibility in from the start.
 
 ---
