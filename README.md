@@ -37,7 +37,7 @@ automation capability. Each project has a dedicated repository.
 | 2 | [AWS Section 508 Compliance Template](https://github.com/AngComply/aws-section-508-compliance-template) | Serverless pipeline for continuous 508/WCAG monitoring, as Infrastructure as Code | Terraform · AWS Lambda · S3 · SNS | ✅ Active |
 | 3 | [PDF Accessibility Remediation Toolkit](https://github.com/AngComply/pdf-accessibility-remediation-toolkit) | Check and auto-remediate PDFs against PDF/UA and Section 508 | Python · pikepdf | ✅ Active |
 | 4 | [Section 508 Documentation Templates](https://github.com/AngComply/section-508-documentation-templates) | Reusable VPAT/ACR, audit, remediation, and test-plan templates | Markdown | ✅ Active |
-| 5 | Trusted Tester Compliance Dashboard | Tracking & reporting 508 conformance findings | Python · FastAPI | 📋 Planned |
+| 5 | [Trusted Tester Compliance Dashboard](https://github.com/AngComply/trusted-tester-compliance-dashboard) | Track and report 508 findings; ingests reports from Projects 1 and 2 | Python · FastAPI · SQLModel | ✅ Active |
 
 > 🔍 Automated tools catch a subset of accessibility issues — they complement,
 > never replace, manual testing with assistive technology.
