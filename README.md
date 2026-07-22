@@ -36,7 +36,7 @@ automation capability. Each project has a dedicated repository.
 | 1 | [Section 508 Compliance Checker CLI](https://github.com/AngComply/section-508-compliance-checker-cli) | Automated detection of common 508/WCAG barriers in web content | Python · Selenium · BeautifulSoup | ✅ Active — 14 checks, CI, tests |
 | 2 | [AWS Section 508 Compliance Template](https://github.com/AngComply/aws-section-508-compliance-template) | Serverless pipeline for continuous 508/WCAG monitoring, as Infrastructure as Code | Terraform · AWS Lambda · S3 · SNS | ✅ Active |
 | 3 | PDF Accessibility Remediation Toolkit | Tooling & workflow for PDF/UA remediation | Python · Adobe Acrobat Pro · PAC | 📋 Planned |
-| 4 | Section 508 Documentation Templates | Reusable VPAT/ACR & audit report templates | Markdown | 📋 Planned |
+| 4 | [Section 508 Documentation Templates](https://github.com/AngComply/section-508-documentation-templates) | Reusable VPAT/ACR, audit, remediation, and test-plan templates | Markdown | ✅ Active |
 | 5 | Trusted Tester Compliance Dashboard | Tracking & reporting 508 conformance findings | Python · FastAPI | 📋 Planned |
 
 > 🔍 Automated tools catch a subset of accessibility issues — they complement,
