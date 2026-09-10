@@ -74,7 +74,7 @@ ATO lifecycle
 
 ## Certifications & Education
 
-- **DHS Section 508 Trusted Tester (TTv5)** : https://credentials092026.s3.us-east-1.amazonaws.com/TrustedTestedCertification_ATolliver.pdf
+- [DHS Section 508 Trusted Tester (TTv5)](https://credentials092026.s3.us-east-1.amazonaws.com/TrustedTestedCertification_ATolliver.pdf)
 - **M.S., Information Technology** — Software Engineering
 - **B.S.**, Computer Studies & English
 
