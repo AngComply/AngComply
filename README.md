@@ -65,7 +65,7 @@ keyboard-only navigation
 **Development & automation** · Python · JavaScript · Terraform · AWS Lambda ·
 FastAPI · GitHub Actions
 
-** Reporting tools** · Section 508 Compliance Reporting Tool (SCRT)
+**Reporting tools** · Section 508 Compliance Reporting Tool (SCRT)
 
 **Compliance & security** · FISMA · NIST 800-53 · VPAT/ACR preparation ·
 ATO lifecycle
