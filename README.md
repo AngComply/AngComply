@@ -83,4 +83,4 @@ ATO lifecycle
 Open to remote **contract, consulting, project-based, and fractional** Section
 508 engagements.
 
-- 📧 angelle.tolliver@bleauxhorn.com
+- 📧 atolliver@bleauxhorn.com
