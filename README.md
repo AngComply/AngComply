@@ -2,8 +2,8 @@
 
 ### Section 508 Subject Matter Expert & Compliance Analyst
 
-I help federal, higher-education, and commercial teams make digital products
-accessible and **Section 508 compliant** through hands-on testing,
+I help federal, higher-education, and commercial teams make information and communication
+technology accessible and **Section 508 compliant** through auditing, hands-on testing,
 remediation, and clear compliance documentation. 10+ years supporting federal
 public-health agencies with accessibility assessment, VPAT/ACR preparation, and
 508 program guidance.
