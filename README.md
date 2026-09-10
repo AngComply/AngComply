@@ -32,10 +32,10 @@ A hands-on portfolio demonstrating Section 508 testing, remediation, and
 automation capability. Each project has a dedicated repository.
 
 > **About these projects:** These are demonstration and reference
-> implementations, built and open-sourced recently to make my approach visible
-> as I take on independent consulting work. The repositories are new; the
-> practices they encode — automated WCAG testing in CI/CD, VPAT/ACR workflows,
-> PDF/UA remediation, and conformance tracking — reflect patterns I have applied
+> implementations, built and open-sourced to highlight my approach to WCAG 2.1 Level AA
+> accessibility compliance, auditing, reporting and remediation. Section 508 adherance
+> and practices are demonstrated via automated WCAG testing in CI/CD, VPAT/ACR workflows,
+> PDF/UA remediation, and conformance tracking. These projects reflect patterns I have applied
 > across a decade of federal Section 508 engagements. Each is functional, tested,
 > and documented.
 
